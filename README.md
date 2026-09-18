@@ -56,13 +56,7 @@
 ## 📊 GitHub İstatistikleri
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esra081&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" width="45%"/>
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=Esra081&theme=tokyonight&hide_border=true" width="45%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Esra081&theme=tokyonight&no-frame=true&row=1&column=6" width="90%"/>
+  <img src="https://streak-stats.demolab.com/?user=Esra081&theme=tokyonight&hide_border=true" width="60%"/>
 </p>
 
 ---
