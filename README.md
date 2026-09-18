@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba, ben Esra 👋</h1>
 
 <p align="center">
-  <em>Yapay Zeka & Makine Öğrenmesi geliştirici | Bilgisayar Mühendisliği</em>
+  <em>Yapay Zeka & Makine Öğrenmesi Geliştirici | Bilgisayar Mühendisi</em>
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 🚀 Hakkımda
 
-- 🎓 Bilgisayar Mühendisliği öğrencisi
+- 🎓 Bilgisayar Mühendisi
 - 🤖 **YOLOv8**, **Derin Öğrenme**, **NLP** ve **Siber Güvenlik** alanlarında projeler geliştiriyorum
 - 🧠 Beyin kanaması tespiti, sahte haber tespiti, DDoS saldırı tespiti üzerine çalıştım
 - 🎙️ Wake word detection (özel ses uyandırma sistemi) projeleri yaptım
@@ -66,18 +66,8 @@
 
 ---
 
-## 🏆 Uzmanlık Alanları
 
-```
-🔬 Bilgisayarlı Görü (Computer Vision)   ████████████░░  85%
-🧠 Derin Öğrenme (Deep Learning)          ██████████░░░░  75%
-🗣️ Doğal Dil İşleme (NLP)               ████████░░░░░░  65%
-🛡️ Siber Güvenlik (ML-based)             ████████░░░░░░  65%
-🌐 Web Geliştirme (Full-Stack)            ██████░░░░░░░░  55%
-📱 Mobil Geliştirme (Flutter)             █████░░░░░░░░░  45%
-```
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Esra081&color=7C3AED&style=flat-square" alt="Profile views"/>
